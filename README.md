@@ -2,7 +2,7 @@
 
 [![Preview](https://imgur.com/mNK9N1E.png "Preview")](https://imgur.com/mNK9N1E.png "Preview")
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
 <a href="https://memories-ahnaf.netlify.app/">Live Preview</a>
 </div>
 
